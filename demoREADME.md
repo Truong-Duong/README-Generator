@@ -1,8 +1,8 @@
 
-# README-Generator
+# readme generator
 
 ## Description
-The project is to create readme generator application
+create readme file
 
 ## Table of Contents
 - [Installation](#installation)
@@ -16,7 +16,7 @@ The project is to create readme generator application
 npm install
 
 ## Usage
-First run the npm install then use the node.js to run the application
+none
 
 
 ## License
@@ -30,8 +30,8 @@ Link to the license: https://opensource.org/licenses/MIT
 Truong Duong
 
 ## Tests
-To demonstate how to generate readme files
+none
 
 ## Questions
-By email, social media or personal website 
+email
 
