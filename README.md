@@ -1,6 +1,5 @@
 # README Generator
 
-
 ## Description
 node.js is a fast way to generate new file. In this case, we generate a new README files.
 

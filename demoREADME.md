@@ -1,8 +1,8 @@
 
-# readme generator
+# Project
 
 ## Description
-create readme file
+project will generate the README File
 
 ## Table of Contents
 - [Installation](#installation)
@@ -16,7 +16,7 @@ create readme file
 npm install
 
 ## Usage
-none
+after run the npm do the node index.js to start the project
 
 
 ## License
@@ -27,10 +27,10 @@ Link to the license: https://opensource.org/licenses/MIT
 
 
 ## Contributing
-Truong Duong
+me
 
 ## Tests
-none
+to generate MD file
 
 ## Questions
 email
